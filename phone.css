@@ -12,7 +12,7 @@
 
 /*Home section*/
 #home{
-	height: 450px;
+	height: 480px;
 	padding: 3px 28px;
 }
 #home::before{
